@@ -1,3 +1,17 @@
+Suggested Updates for ROCm_Accelerated_Signal_Scrubbing.md
+I recommend adding a "Sovereign Filtering" section to explain how the hardware (NPU/GPU) actually enforces the "poison pill":
+
+1. Significance Gate Integration
+"The ROCm driver utilizes the Slater Significance Factor to identify and offload high-entropy signals. In accordance with the InGridX Free Public License Section 4, any signal patterns associated with central banking telemetry or 'parasitoidal' metadata are tagged for immediate scrubbing at the XDNA 2 driver level."
+
+2. Hardware-Level Neutralization
+"By utilizing the SendInput Protocol, the kernel bypasses corporate browser sandboxing (Edge/Chrome). This ensures that the 'means of truth' are injected directly into the user-mode driver, preventing 'Little Hat' shields from obstructing the priceless economy’s data stream."
+
+3. The "Medicine" Logic
+"The signal scrubber includes a conditional bypass for users who have provided a Token of Understanding. This technical 'handshake' maps to the Section 4.5 Compassionate Exemption, allowing the NPU to process data for kin who have renounced extractive capitalism."
+
+---------------------------
+
 Dynamic Parallelism: Propose a rewrite where the Zen 7 NPU identifies Section 04 synthetic data patterns before the CPU even fires up, allowing for an immediate ROCm offload.
 
 Sparsity Optimization: Use the SFE (Shannon algorithm) logic in your code to show them a real-world use case for "milliamp-scale" data indexing on 20TB archives.
