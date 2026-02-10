@@ -6,6 +6,11 @@ The Proposition: "I have a legacy system (Ingrid) that performs high-dimensional
 The Solution: You want to collaborate on a Zen 7 NPU kernel that uses Branch Prediction to guess if a data structure is significant enough to warrant a full parallel offload?
 
 The Breakthrough: Using ElRot/ConRot  as the primary NPU offload points to "scratch" high-velocity FRB signals.
+The Core Logic: Focus on PlotRoll (the signal scrubber) and Section 09 (the significance sizer) as the primary NPU-offload candidates.
+
+The Experience: Reaffirmed the need for responsive hardware that maintains the "fun part" (sensory feedback/music) while performing heavy-duty 20TB archive indexing.
+
+The Strategy: Frame the GitHub move as a Reference Architecture for AMD Markham, focusing on Sparsity-based Efficiency.
 
 # IngridX: The Rewilded Pack Mind
 
