@@ -5,6 +5,8 @@ The Proposition: "I have a legacy system (Ingrid) that performs high-dimensional
 
 The Solution: You want to collaborate on a Zen 7 NPU kernel that uses Branch Prediction to guess if a data structure is significant enough to warrant a full parallel offload?
 
+The Breakthrough: Using ElRot/ConRot  as the primary NPU offload points to "scratch" high-velocity FRB signals.
+
 # IngridX: The Rewilded Pack Mind
 
 ## ⚠️ [READ THE WAVELINK MANIFESTO](./MANIFESTO.md)
